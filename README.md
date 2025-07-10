@@ -3,7 +3,7 @@
 <h3 align="center">ALX Backend Developer in Training | Tech Simplifier | Purpose-Driven Creator</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="160" alt="typing gif">
+  <img src="https://tenor.com/en-ZA/view/get-excited-excited-oprah-jumping-clapping-gif-12510341" width="160" alt="typing gif">
 </p>
 
 ## 💬 About Me
